@@ -1,2 +1,2 @@
-#MyJS;
+#MyJS
 Learning JS
